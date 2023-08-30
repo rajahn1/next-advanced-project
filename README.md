@@ -1,1 +1,1 @@
-# Next Project ADVANCED
+# Next Boilerplate
