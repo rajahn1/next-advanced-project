@@ -1,5 +1,5 @@
-'use client'
-import * as S from './styles'
+"use client";
+import * as S from "./styles";
 
 const Main = () => (
   <S.Wrapper>
@@ -13,6 +13,6 @@ const Main = () => (
       alt="Programador de frente para um computador"
     />
   </S.Wrapper>
-)
+);
 
-export default Main
+export default Main;
